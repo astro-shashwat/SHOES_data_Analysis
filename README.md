@@ -1,7 +1,9 @@
 # SHOES_data_Analysis
 This Repository deals with calculating Hubble Constant $H_0$ , Hubble Tension $H_tensio$, Universe Age $T_U$ , Universe Spatial Curvature Type $\Omega_k$ and Matter density $\Omega_m$ .
 
-#Read the Header (Column ) of PantheonSHOES.dat as:
+#Read the Header (Column ) meanings of PantheonSHOES.dat as:
+
+<details>
 
 - CID Supernova identifier (internal ID)
 - IDSURVEY Survey ID the SN came from (e.g. SDSS, SNLS, Pan-STARRS, etc.)
@@ -51,6 +53,6 @@ This Repository deals with calculating Hubble Constant $H_0$ , Hubble Tension $H
 - biasCor_m_b_COVSCALE	Covariance scaling factor for bias correction
 - biasCor_m_b_COVADD	Additional covariance contribution from bias correction
 
-
+</continued>
 
 
