@@ -1,0 +1,11 @@
+name: shoes-data-analysis
+channels:
+ - defaults
+ - conda-forge
+dependencies:
+-python=3.1
+-numpy
+-matplotlib
+-jupyter
+-seaborn #optional, for nicer plots
+-astropy #useful for astronomy/astrophysics work
