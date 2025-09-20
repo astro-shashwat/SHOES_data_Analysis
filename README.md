@@ -3,6 +3,19 @@ This Repository deals with calculating Hubble Constant $H_0$ , Hubble Tension $H
 
 #Read the Header (Column ) meanings of PantheonSHOES.dat as:
 
+
+## Hubble Constant Calculation using <mark>Pantheon_SHOES.dat</mark>
+
+1. Understand the columns
+2. Select Hubble flow sample
+3. Distance Modulus $\mu$ relates Luminosity distance $d_L$
+
+   $\mu$ = 5log($d_L$/10pc)
+
+   $d_L$ (Mpc) =  10^($\mu$-25)/5
+
+
+
 <details>
 
 - CID Supernova identifier (internal ID)
